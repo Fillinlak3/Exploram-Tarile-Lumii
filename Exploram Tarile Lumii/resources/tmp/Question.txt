@@ -1,0 +1,8 @@
+Spune-mi pentru `` urmatoarele:
+- Capitala;
+- Continent;
+- Moneda (nume + abreviere + simbol);
+- Limba;
+- Suprafata (km^2);
+- Densitatea populatiei (loc/km^2);
+- Descriere (Un scurt tur informativ in 300 de cuvinte `pentru copii` despre tara).

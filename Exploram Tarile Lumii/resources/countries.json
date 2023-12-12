@@ -1,0 +1,70 @@
+[
+	{
+		"1": {
+			"name": "Abhazia",
+			"capital": "Suhumi",
+			"region": "AS",
+			"currency": {
+				"name": "Rubla rusă",
+				"code": "RUB",
+				"symbol": "₽"
+			},
+			"language": "abhază, rusă",
+			"flag": "Abhazia.png",
+			"area": "8.600 km²",
+			"density": "29 loc/km²",
+			"description": "Bun venit în Abhazia, o țară minunată situată la malul Mării Negre! Abhazia este mică, dar plină de farmec și aventură.\nÎn Abhazia, vei găsi munți înalți acoperiți de zăpadă iarna și plaje aurii și calde vara. Aici, oamenii vorbesc o limbă numită abhază și au tradiții vesele și colorate pe care le sărbătoresc cu drag.\nO vizită în capitala lor, Sukhumi, te va duce într-o călătorie fascinantă printre piețe pline de culoare și clădiri cu arhitectură unică. Palatul lor prezidențial este ca un castel magic, iar grădinile din jur sunt pline de flori frumoase.\nPlajele din Abhazia sunt locuri perfecte pentru joacă și distracție. Nisipul fin și apa limpede te invită să faci castele de nisip și să te bucuri de soare. În timpul verii, poți încerca și delicioasele lor fructe proaspete, cum ar fi rodiile și kiwi-urile.\nOamenii din Abhazia iubesc să danseze și să cânte. Dacă ai noroc, poți lua parte la un spectacol tradițional în care vei vedea dansuri pline de energie și vei asculta muzică veselă.\nCu toate acestea, Abhazia a trecut prin momente dificile, iar oamenii lor au avut parte de schimbări importante. Cu toate acestea, ei sunt puternici și mândri de țara lor.\nAșadar, dacă vrei să explorezi un loc special, cu peisaje frumoase și oameni calzi, Abhazia este destinația perfectă pentru o aventură plină de surprize și zâmbete!"
+		}
+	},
+	{
+		"2": {
+			"name": "Afganistan",
+			"capital": "Kabul",
+			"region": "AS",
+			"currency": {
+				"name": "Afghani",
+				"code": "AFN",
+				"symbol": "؋"
+			},
+			"language": "pashto, dari (persană)",
+			"flag": "Afganistan.png",
+			"area": "652.864 km²",
+			"density": "43,5 loc/km²",
+			"description": "Bun venit în Afganistan, o țară minunată situată în Asia, unde aventura și tradițiile frumoase te așteaptă! Capitala acestei țări este Kabul, un oraș plin de viață și culoare.\nAfganistanul este așezat pe un continent magic numit Asia, acasă pentru o mulțime de culturi și locuri interesante. Moneda pe care o folosesc oamenii afgani se numește Afghani, iar dacă o vezi scrisă, vei recunoaște simbolul special ؋.\nOamenii din Afganistan vorbesc mai multe limbi, cele mai importante fiind Pashto și Dari (persană). Aceste limbi sunt pline de sunete frumoase și cuvinte interesante.\nSuprafața Afganistanului este destul de mare, fiind o țară cu munți înalți, văi adânci și deșerturi misterioase. Densitatea populației, adică câți oameni locuiesc pe un kilometru pătrat, este de aproximativ 49 de prieteni noi în fiecare loc!\nChiar dacă Afganistan a trecut prin momente grele, oamenii de aici sunt puternici și plini de dragoste pentru țara lor. Ei au tradiții minunate, cum ar fi dansurile tradiționale și prepararea mâncărurilor delicioase.\nAșadar, dacă vrei să descoperi o lume nouă, plină de culori, sunete și oameni prietenoși, Afganistanul este locul perfect pentru o călătorie plină de aventuri!"
+		}
+	},
+	{
+		"3": {
+			"name": "Africa de Sud",
+			"capital": "Pretoria",
+			"region": "AF",
+			"currency": {
+				"name": "Rand",
+				"code": "ZAR",
+				"symbol": "R"
+			},
+			"language": "afrikaans, engleza, isiZulu, isiXhosa",
+			"flag": "Africa de Sud.png",
+			"area": "1.221.037 km²",
+			"density": "48,1 loc/km²",
+			"description": "Bine ați venit în Africa de Sud, o țară magică plină de aventuri, animale sălbatice și oameni minunați! Africa de Sud este așezată pe un continent magic numit Africa și este un loc plin de surprize.\nCapitala administrativă este Pretoria, dar există și alte orașe importante, cum ar fi Bloemfontein și Cape Town. Fiecare oraș are ceva special și unic de oferit.\nBanii pe care oamenii îi folosesc aici se numesc Rand și au un simbol special, asemănător cu un semn de \"R\". Este ca o monedă de poveste pe care o poți folosi pentru a cumpăra lucruri minunate.\nÎn Africa de Sud, oamenii vorbesc multe limbi diferite, așa că vei auzi cuvinte și sunete noi peste tot. Printre acestea se numără afrikaans, engleza, isiZulu și isiXhosa.\nȚara are o suprafață mare, cu munți, plaje frumoase și savane întinse, unde poți întâlni animale sălbatice precum lei, elefanți și rinoceri. Este ca un paradis pentru iubitorii de natură!\nCu oameni prietenoși, culturi bogate și peisaje uluitoare, Africa de Sud este un loc minunat de explorat. Așa că pune-ți pălăria de explorator și pregătește-te pentru o călătorie magică în această țară plină de aventuri!"
+		}
+	},
+	{
+		"4": {
+			"name": "Akrotiri și Dhekelia",
+			"capital": "Cantonamentul Episkopi",
+			"region": "EU",
+			"currency": {
+				"name": "Euro",
+				"code": "EUR",
+				"symbol": "€"
+			},
+			"language": "engleză",
+			"flag": "Akrotiri si Dhekelia.png",
+			"area": "254 km²",
+			"density": "n/a loc/km²",
+			"description": "Bine ați venit în Akrotiri și Dhekelia, două locuri speciale pe insula fermecată a Ciprului, unde aventurile se întrepătrund cu istoria! Chiar dacă aceste locuri nu sunt țări independente, ci baze militare britanice, ele au o poveste interesantă și locuri uimitoare de explorat.\nCapitala acestor teritorii este Cantonamentul Episkopi, un loc în care oamenii se adună să trăiască, să lucreze și să împărtășească bucuriile vieții. Chiar dacă nu este un oraș ca celelalte capitale, este ca un mic tărâm magic în inima Akrotiri și Dhekelia.\nAceste teritorii sunt așezate pe continentul Europei, pe insula frumoasă a Ciprului, în Marea Mediterană. Moneda pe care oamenii o folosesc aici este euro, o monedă cu o stea aurie, pe care o poți vedea pe mici comori sau în magazinele lor fermecate.\nOamenii vorbesc diferite limbi, dar engleza este limba pe care o auzi cel mai des. Deci, dacă vreodată te duci să vizitezi aceste locuri, poți să spui \"hello\" sau \"how are you?\" și vei fi înțeles imediat. Locuitorii includ trupe britanice, dar și ciprioți, care adaugă o notă specială de diversitate și prietenie.\nTeritoriul cuprinde două părți - Akrotiri și Dhekelia. Akrotiri este în vest, aproape de orașul Limassol, iar Dhekelia este în est, lângă Larnaca. Fiecare parte are sate și locuri minunate, cum ar fi Ayios Nikolaos sau Garnizoana Episkopi.\nÎn trecut, trupele britanice au avut un rol important în păstrarea păcii în timpul unor evenimente dificile, iar în timpul invaziei Ciprului de Nord, aceste teritorii au oferit un loc sigur pentru refugiați.\nAșadar, Akrotiri și Dhekelia nu sunt doar teritorii, ci locuri cu o istorie fascinantă și oameni minunați. Cu peisaje fermecătoare și întâmplări magice, aceste locuri reprezintă o fărâmă de lume specială, cu o combinație unică de istorie, diversitate și aventură."
+		}
+	}
+]

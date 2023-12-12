@@ -1,0 +1,17 @@
+{
+	"3": {
+		"name": "",
+		"capital": "",
+		"region": "",
+		"currency": {
+			"name": "",
+			"code": "",
+			"symbol": ""
+		},
+		"language": "",
+		"flag": "",
+		"area": "km²",
+		"density": "loc/km²",
+		"description": ""
+	}
+}

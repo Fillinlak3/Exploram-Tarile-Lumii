@@ -27,6 +27,7 @@ namespace Exploram_Tarile_Lumii.Scenes
         private void BTN_GuessTheFlags_Click(object sender, EventArgs e)
         {
             this.Controls.Add(new Gamemodes.GuessTheFlag());
+            this.Controls[Controls.Count - 1].Location = new Point(0, 0);
             this.Controls[Controls.Count - 1].BringToFront();
             Debug.WriteLine(Controls.Count);
         }

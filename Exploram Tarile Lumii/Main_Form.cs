@@ -86,6 +86,10 @@ namespace Exploram_Tarile_Lumii
         private async void Main_Form_Load(object sender, EventArgs e)
         {
             countryList = ParseJson(File.ReadAllText(@$"{resourcesPath}countries.json"));
+            // Center UI Controls.
+            Scene_MainMenu.Location = new Point((this.Size.Width - Scene_MainMenu.Width) / 2, (this.Size.Height - Scene_MainMenu.Height) / 2);
+            Scene_SelectGamemode.Location = new Point((this.Size.Width - Scene_SelectGamemode.Width) / 2, (this.Size.Height - Scene_SelectGamemode.Height) / 2);
+            Debug.WriteLine($"MM: {Scene_MainMenu.Location} - GM: {Scene_SelectGamemode.Location}");
             // Load the Main Menu Scene.
             Scene_MainMenu.Visible = true;
             // Wait for the form to load.

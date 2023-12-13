@@ -94,8 +94,8 @@
             // 
             // GuessTheFlag
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
-            AutoScaleMode = AutoScaleMode.Font;
+            AutoScaleDimensions = new SizeF(120F, 120F);
+            AutoScaleMode = AutoScaleMode.Dpi;
             AutoSize = true;
             Controls.Add(BTN_Choice1);
             Controls.Add(BTN_Choice3);

@@ -37,6 +37,7 @@
             Scene_MainMenu.AutoSize = true;
             Scene_MainMenu.BackColor = Color.Transparent;
             Scene_MainMenu.Location = new Point(50, 50);
+            Scene_MainMenu.Margin = new Padding(2);
             Scene_MainMenu.Name = "Scene_MainMenu";
             Scene_MainMenu.Size = new Size(1820, 980);
             Scene_MainMenu.TabIndex = 0;
@@ -46,14 +47,15 @@
             Scene_SelectGamemode.AutoSize = true;
             Scene_SelectGamemode.BackColor = Color.Transparent;
             Scene_SelectGamemode.Location = new Point(50, 50);
+            Scene_SelectGamemode.Margin = new Padding(2);
             Scene_SelectGamemode.Name = "Scene_SelectGamemode";
             Scene_SelectGamemode.Size = new Size(1820, 980);
             Scene_SelectGamemode.TabIndex = 1;
             // 
             // Main_Form
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
-            AutoScaleMode = AutoScaleMode.Font;
+            AutoScaleDimensions = new SizeF(120F, 120F);
+            AutoScaleMode = AutoScaleMode.Dpi;
             AutoSize = true;
             BackgroundImage = Properties.Resources.game_background;
             BackgroundImageLayout = ImageLayout.Stretch;
@@ -61,6 +63,7 @@
             Controls.Add(Scene_MainMenu);
             Controls.Add(Scene_SelectGamemode);
             DoubleBuffered = true;
+            Margin = new Padding(2);
             Name = "Main_Form";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Exploram Tarile Lumii";

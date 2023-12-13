@@ -11,8 +11,8 @@ namespace Exploram_Tarile_Lumii
 {
     public partial class Main_Form : Form
     {
-        public static List<Country> countryList;
-        private string resourcesPath;
+        public static List<Country>? countryList;
+        private string? resourcesPath;
 
         public Main_Form()
         {
@@ -20,7 +20,26 @@ namespace Exploram_Tarile_Lumii
 
             countryList = new List<Country>();
             HideAllViews();
+            GetResourcesPath();
+        }
 
+        private async void Main_Form_Load(object sender, EventArgs e)
+        {
+            countryList = ParseJson(File.ReadAllText(@$"{resourcesPath}countries.json"));
+            // Center UI Controls.
+            Scene_MainMenu.Location = new Point((this.Size.Width - Scene_MainMenu.Width) / 2, (this.Size.Height - Scene_MainMenu.Height) / 2);
+            Scene_SelectGamemode.Location = new Point((this.Size.Width - Scene_SelectGamemode.Width) / 2, (this.Size.Height - Scene_SelectGamemode.Height) / 2);
+            Debug.WriteLine($"MM: {Scene_MainMenu.Location} - GM: {Scene_SelectGamemode.Location}");
+            // Load the Main Menu Scene.
+            Scene_MainMenu.Visible = true;
+            // Wait for the form to load.
+            await Task.Delay(1000);
+            // Debug the json.
+            await PrintAllJsonContent();
+        }
+
+        private void GetResourcesPath()
+        {
             string currentDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)!;
             // Combine the current directory with ".." to go up one level
             string parentDirectory = Path.Combine(currentDirectory, "..");
@@ -36,7 +55,7 @@ namespace Exploram_Tarile_Lumii
 
             var array = JsonSerializer.Deserialize<List<Dictionary<string, Dictionary<string, object>>>>(json);
 
-            var countries = array.SelectMany(dict =>
+            var countries = array!.SelectMany(dict =>
             {
                 return dict.Select(entry =>
                 {
@@ -46,6 +65,7 @@ namespace Exploram_Tarile_Lumii
                     var currencyJsonElement = (JsonElement)countryDetails["currency"];
                     var currencyDict = JsonSerializer.Deserialize<Dictionary<string, object>>(currencyJsonElement.GetRawText());
 
+                    #pragma warning disable 8601, 8602
                     return new Country
                     {
                         id = index,
@@ -64,6 +84,7 @@ namespace Exploram_Tarile_Lumii
                         density = countryDetails["density"].ToString(),
                         description = countryDetails["description"].ToString()
                     };
+                    #pragma warning restore 8601, 8602
                 });
             }).ToList();
 
@@ -72,7 +93,10 @@ namespace Exploram_Tarile_Lumii
 
         private async Task PrintAllJsonContent()
         {
-            foreach (var item in countryList)
+            if (countryList != null && countryList.Count == 0)
+                throw new Exception("Empty country list.");
+
+            foreach (var item in countryList!)
             {
                 Debug.WriteLine($"[{item.id}] {item.name} - {item.capital} - {item.region}");
                 Debug.WriteLine($"Currency: {item.currency.name} - {item.currency.code} - {item.currency.symbol}");
@@ -81,21 +105,6 @@ namespace Exploram_Tarile_Lumii
                 Scene_MainMenu.pictureBox4.BackgroundImage = item.flag;
                 await Task.Delay(100);
             }
-        }
-
-        private async void Main_Form_Load(object sender, EventArgs e)
-        {
-            countryList = ParseJson(File.ReadAllText(@$"{resourcesPath}countries.json"));
-            // Center UI Controls.
-            Scene_MainMenu.Location = new Point((this.Size.Width - Scene_MainMenu.Width) / 2, (this.Size.Height - Scene_MainMenu.Height) / 2);
-            Scene_SelectGamemode.Location = new Point((this.Size.Width - Scene_SelectGamemode.Width) / 2, (this.Size.Height - Scene_SelectGamemode.Height) / 2);
-            Debug.WriteLine($"MM: {Scene_MainMenu.Location} - GM: {Scene_SelectGamemode.Location}");
-            // Load the Main Menu Scene.
-            Scene_MainMenu.Visible = true;
-            // Wait for the form to load.
-            await Task.Delay(1000);
-            // Debug the json.
-            await PrintAllJsonContent();
         }
 
         // Hide all panels.

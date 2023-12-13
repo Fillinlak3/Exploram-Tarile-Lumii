@@ -28,18 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Scene_Main_Menu = new Scenes.Main_Menu();
+            Scene_MainMenu = new Scenes.Main_Menu();
             Scene_SelectGamemode = new Scenes.SelectGamemode();
             SuspendLayout();
             // 
-            // Scene_Main_Menu
+            // Scene_MainMenu
             // 
-            Scene_Main_Menu.AutoSize = true;
-            Scene_Main_Menu.BackColor = Color.Transparent;
-            Scene_Main_Menu.Location = new Point(50, 50);
-            Scene_Main_Menu.Name = "Scene_Main_Menu";
-            Scene_Main_Menu.Size = new Size(1748, 854);
-            Scene_Main_Menu.TabIndex = 0;
+            Scene_MainMenu.AutoSize = true;
+            Scene_MainMenu.BackColor = Color.Transparent;
+            Scene_MainMenu.Location = new Point(50, 50);
+            Scene_MainMenu.Name = "Scene_MainMenu";
+            Scene_MainMenu.Size = new Size(1820, 980);
+            Scene_MainMenu.TabIndex = 0;
             // 
             // Scene_SelectGamemode
             // 
@@ -47,7 +47,7 @@
             Scene_SelectGamemode.BackColor = Color.Transparent;
             Scene_SelectGamemode.Location = new Point(50, 50);
             Scene_SelectGamemode.Name = "Scene_SelectGamemode";
-            Scene_SelectGamemode.Size = new Size(1748, 1104);
+            Scene_SelectGamemode.Size = new Size(1820, 980);
             Scene_SelectGamemode.TabIndex = 1;
             // 
             // Main_Form
@@ -57,13 +57,14 @@
             AutoSize = true;
             BackgroundImage = Properties.Resources.game_background;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(1920, 1080);
-            Controls.Add(Scene_Main_Menu);
+            ClientSize = new Size(1920, 1055);
+            Controls.Add(Scene_MainMenu);
             Controls.Add(Scene_SelectGamemode);
             DoubleBuffered = true;
             Name = "Main_Form";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Exploram Tarile Lumii";
+            WindowState = FormWindowState.Maximized;
             Load += Main_Form_Load;
             ResumeLayout(false);
             PerformLayout();
@@ -71,7 +72,7 @@
 
         #endregion
 
-        public static Scenes.Main_Menu Scene_Main_Menu;
+        public static Scenes.Main_Menu Scene_MainMenu;
         public static Scenes.SelectGamemode Scene_SelectGamemode;
     }
 }

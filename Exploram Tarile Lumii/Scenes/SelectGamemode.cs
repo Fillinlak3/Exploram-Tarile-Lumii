@@ -21,7 +21,7 @@ namespace Exploram_Tarile_Lumii.Scenes
         private void ReturnToMenu(object sender, EventArgs e)
         {
             Main_Form.HideAllViews();
-            Main_Form.Scene_Main_Menu.Visible = true;
+            Main_Form.Scene_MainMenu.Visible = true;
         }
 
         private void BTN_GuessTheFlags_Click(object sender, EventArgs e)

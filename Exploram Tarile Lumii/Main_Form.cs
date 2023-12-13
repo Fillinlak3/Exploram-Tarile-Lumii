@@ -78,7 +78,7 @@ namespace Exploram_Tarile_Lumii
                 Debug.WriteLine($"Currency: {item.currency.name} - {item.currency.code} - {item.currency.symbol}");
                 Debug.WriteLine($"{item.language} - {item.area} - {item.density}");
                 Debug.WriteLine(item.description);
-                Scene_Main_Menu.pictureBox4.BackgroundImage = item.flag;
+                Scene_MainMenu.pictureBox4.BackgroundImage = item.flag;
                 await Task.Delay(100);
             }
         }
@@ -87,7 +87,7 @@ namespace Exploram_Tarile_Lumii
         {
             countryList = ParseJson(File.ReadAllText(@$"{resourcesPath}countries.json"));
             // Load the Main Menu Scene.
-            Scene_Main_Menu.Visible = true;
+            Scene_MainMenu.Visible = true;
             // Wait for the form to load.
             await Task.Delay(1000);
             // Debug the json.
@@ -97,7 +97,7 @@ namespace Exploram_Tarile_Lumii
         // Hide all panels.
         public static void HideAllViews()
         {
-            Scene_Main_Menu.Visible = false;
+            Scene_MainMenu.Visible = false;
             Scene_SelectGamemode.Visible = false;
         }
     }

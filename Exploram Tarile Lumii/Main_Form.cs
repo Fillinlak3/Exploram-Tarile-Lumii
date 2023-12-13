@@ -11,7 +11,7 @@ namespace Exploram_Tarile_Lumii
 {
     public partial class Main_Form : Form
     {
-        private List<Country> countryList;
+        public static List<Country> countryList;
         private string resourcesPath;
 
         public Main_Form()
@@ -19,9 +19,7 @@ namespace Exploram_Tarile_Lumii
             InitializeComponent();
 
             countryList = new List<Country>();
-            ReturnToMenu(null, null);
-            this.WindowState = FormWindowState.Normal;
-            this.Size = new Size(520, 520);
+            HideAllViews();
 
             string currentDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)!;
             // Combine the current directory with ".." to go up one level
@@ -80,7 +78,7 @@ namespace Exploram_Tarile_Lumii
                 Debug.WriteLine($"Currency: {item.currency.name} - {item.currency.code} - {item.currency.symbol}");
                 Debug.WriteLine($"{item.language} - {item.area} - {item.density}");
                 Debug.WriteLine(item.description);
-                pictureBox4.BackgroundImage = item.flag;
+                Scene_Main_Menu.pictureBox4.BackgroundImage = item.flag;
                 await Task.Delay(100);
             }
         }
@@ -88,30 +86,19 @@ namespace Exploram_Tarile_Lumii
         private async void Main_Form_Load(object sender, EventArgs e)
         {
             countryList = ParseJson(File.ReadAllText(@$"{resourcesPath}countries.json"));
+            // Load the Main Menu Scene.
+            Scene_Main_Menu.Visible = true;
+            // Wait for the form to load.
+            await Task.Delay(1000);
+            // Debug the json.
             await PrintAllJsonContent();
         }
 
         // Hide all panels.
-        private void HideAllViews()
+        public static void HideAllViews()
         {
-            Panel_Menu.Visible = false;
-            Panel_SelectGameMode.Visible = false;
-        }
-
-        private void SelectGamemode(object sender, EventArgs e)
-        {
-            HideAllViews();
-            Panel_SelectGameMode.Visible = true;
-        }
-        private void ReturnToMenu(object sender, EventArgs e)
-        {
-            HideAllViews();
-            Panel_Menu.Visible = true;
-        }
-
-        private void QuitGame(object sender, EventArgs e)
-        {
-            Application.Exit();
+            Scene_Main_Menu.Visible = false;
+            Scene_SelectGamemode.Visible = false;
         }
     }
 }

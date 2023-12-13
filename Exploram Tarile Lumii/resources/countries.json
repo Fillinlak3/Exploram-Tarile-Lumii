@@ -66,5 +66,39 @@
 			"density": "n/a loc/km²",
 			"description": "Bine ați venit în Akrotiri și Dhekelia, două locuri speciale pe insula fermecată a Ciprului, unde aventurile se întrepătrund cu istoria! Chiar dacă aceste locuri nu sunt țări independente, ci baze militare britanice, ele au o poveste interesantă și locuri uimitoare de explorat.\nCapitala acestor teritorii este Cantonamentul Episkopi, un loc în care oamenii se adună să trăiască, să lucreze și să împărtășească bucuriile vieții. Chiar dacă nu este un oraș ca celelalte capitale, este ca un mic tărâm magic în inima Akrotiri și Dhekelia.\nAceste teritorii sunt așezate pe continentul Europei, pe insula frumoasă a Ciprului, în Marea Mediterană. Moneda pe care oamenii o folosesc aici este euro, o monedă cu o stea aurie, pe care o poți vedea pe mici comori sau în magazinele lor fermecate.\nOamenii vorbesc diferite limbi, dar engleza este limba pe care o auzi cel mai des. Deci, dacă vreodată te duci să vizitezi aceste locuri, poți să spui \"hello\" sau \"how are you?\" și vei fi înțeles imediat. Locuitorii includ trupe britanice, dar și ciprioți, care adaugă o notă specială de diversitate și prietenie.\nTeritoriul cuprinde două părți - Akrotiri și Dhekelia. Akrotiri este în vest, aproape de orașul Limassol, iar Dhekelia este în est, lângă Larnaca. Fiecare parte are sate și locuri minunate, cum ar fi Ayios Nikolaos sau Garnizoana Episkopi.\nÎn trecut, trupele britanice au avut un rol important în păstrarea păcii în timpul unor evenimente dificile, iar în timpul invaziei Ciprului de Nord, aceste teritorii au oferit un loc sigur pentru refugiați.\nAșadar, Akrotiri și Dhekelia nu sunt doar teritorii, ci locuri cu o istorie fascinantă și oameni minunați. Cu peisaje fermecătoare și întâmplări magice, aceste locuri reprezintă o fărâmă de lume specială, cu o combinație unică de istorie, diversitate și aventură."
 		}
+	},
+	{
+		"5": {
+			"name": "Albania",
+			"capital": "Tirana",
+			"region": "EU",
+			"currency": {
+				"name": "Lek",
+				"code": "ALL",
+				"symbol": "L"
+			},
+			"language": "albaneză",
+			"flag": "Albania.png",
+			"area": "28.748 km²",
+			"density": "111,1 loc/km²",
+			"description": "Bine ați venit în Albania, o țară minunată situată în inima Europei, unde descoperirile și distracția te așteaptă în fiecare colț! Capitala acestei țări fermecate este Tirana, un oraș vesel și plin de culoare.\nAlbania este ca o comoară ascunsă, așezată pe continentul Europei, unde oamenii vorbesc o limbă numită albaneză. Este ca o poveste magică pe care o poți descoperi și învăța când vii aici.\nBanii pe care îi folosesc aici se numesc \"Lek\", iar dacă îi vezi, vei recunoaște un simbol drăguț, asemănător cu litera \"L\". Cu acești bani, poți cumpăra delicioasele bunătăți locale și suveniruri fermecătoare.\nAlbania este o țară cu peisaje uimitoare, de la mări strălucitoare la munți înalți. Oamenii de aici sunt prietenoși și își iubesc țara cu pasiune. Cu sate pitorești și orașe pline de viață, Albania este un loc în care fiecare zi aduce ceva nou de descoperit.\nPentru că suprafața Albaniei este destul de mare, poți explora plaje frumoase, cum ar fi cele de la Riviera Albaneză, sau poți să te urci pe munții înalți pentru a admira priveliști uluitoare.\nCu oameni ospitalieri, mâncare delicioasă și istorie fascinantă, Albania este ca un loc de poveste pe care copiii îl pot descoperi și iubi. Deci, pune-ți pălăria de explorator și pregătește-te pentru o călătorie plină de aventuri în această țară fermecată din inima Europei!"
+		}
+	},
+	{
+		"6": {
+			"name": "Algeria",
+			"capital": "Alger",
+			"region": "AF",
+			"currency": {
+				"name": "Dinar algerian",
+				"code": "DZD",
+				"symbol": "دج"
+			},
+			"language": "arabă, berberă",
+			"flag": "Algeria.png",
+			"area": "2.381.741 km²",
+			"density": "15,9 loc/km²",
+			"description": "Bun venit în Algeria, o țară minunată situată în partea de nord a Africii, unde aventura și frumusețea naturală te așteaptă la fiecare pas! Capitala acestei țări pline de culoare este Alger, un oraș cu o istorie bogată și străzi pline de viață.\nAlgeria este ca un colț de poveste pe continentul african, unde oamenii vorbesc limbi magice precum arabă și berberă. Banii pe care îi folosesc se numesc \"Dinar algerian\" și au un simbol special care arată ca o comoară strălucitoare.\nSuprafața Algeriei este imensă, ea fiind cea mai mare țară din Africa. Aici vei găsi totul, de la deșerturi fierbinți la munți înalți și plaje aurii. Cu o asemenea diversitate de peisaje, poți să îți imaginezi că ești într-un adevărat tărâm de poveste.\nOamenii din Algeria iubesc să își împărtășească cultura și tradițiile. Fiecare colț al țării are povestea sa, de la orașele vechi precum Timimoun până la piețele animate ale orașului Algiers. Cu mâncăruri delicioase, dansuri tradiționale și muzică veselă, Algeria este ca un festival continuu de bucurie.\nDesertul Sahara, care este și cel mai mare deșert din lume, se întinde pe o parte a Algeriei. Aici poți vedea dune de nisip uriase și adăposturi tradiționale numite \"casbahs\". Cu siguranță vei simți că ești în mijlocul unei aventuri de neuitat.\nAșadar, dacă vrei să descoperi o țară plină de farmec, istorie și frumusețe naturală, Algeria este locul perfect pentru tine. Pregătește-te pentru o călătorie magică în această lume minunată!"
+		}
 	}
 ]

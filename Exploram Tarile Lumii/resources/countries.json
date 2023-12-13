@@ -100,5 +100,413 @@
 			"density": "15,9 loc/km²",
 			"description": "Bun venit în Algeria, o țară minunată situată în partea de nord a Africii, unde aventura și frumusețea naturală te așteaptă la fiecare pas! Capitala acestei țări pline de culoare este Alger, un oraș cu o istorie bogată și străzi pline de viață.\nAlgeria este ca un colț de poveste pe continentul african, unde oamenii vorbesc limbi magice precum arabă și berberă. Banii pe care îi folosesc se numesc \"Dinar algerian\" și au un simbol special care arată ca o comoară strălucitoare.\nSuprafața Algeriei este imensă, ea fiind cea mai mare țară din Africa. Aici vei găsi totul, de la deșerturi fierbinți la munți înalți și plaje aurii. Cu o asemenea diversitate de peisaje, poți să îți imaginezi că ești într-un adevărat tărâm de poveste.\nOamenii din Algeria iubesc să își împărtășească cultura și tradițiile. Fiecare colț al țării are povestea sa, de la orașele vechi precum Timimoun până la piețele animate ale orașului Algiers. Cu mâncăruri delicioase, dansuri tradiționale și muzică veselă, Algeria este ca un festival continuu de bucurie.\nDesertul Sahara, care este și cel mai mare deșert din lume, se întinde pe o parte a Algeriei. Aici poți vedea dune de nisip uriase și adăposturi tradiționale numite \"casbahs\". Cu siguranță vei simți că ești în mijlocul unei aventuri de neuitat.\nAșadar, dacă vrei să descoperi o țară plină de farmec, istorie și frumusețe naturală, Algeria este locul perfect pentru tine. Pregătește-te pentru o călătorie magică în această lume minunată!"
 		}
+	},
+	{
+		"7": {
+			"name": "Andorra",
+			"capital": "Andorra la Vella",
+			"region": "EU",
+			"currency": {
+				"name": "Euro",
+				"code": "EUR",
+				"symbol": "€"
+			},
+			"language": "catalană",
+			"flag": "Andorra.png",
+			"area": "476,63 km²",
+			"density": "181,94 loc/km²",
+			"description": "Bun venit în Andorra, o țară micuță și fermecătoare situată în inima Europei, unde poveștile se împletesc cu peisaje de basm! Capitala acestei lumi magice este Andorra la Vella, un oraș mic, dar plin de culoare și viață.\nAndorra este ca o grădină fermecată aflată între munți înalți, unde oamenii vorbesc o limbă numită catalană. Banii pe care îi folosesc aici sunt \"euro\", o monedă cu un simbol care arată ca o comoară strălucitoare. Cu acești bani, poți cumpăra suveniruri magice și bunătăți delicioase.\nSuprafața țării nu este foarte mare, dar este plină de locuri minunate de explorat. Poți întâlni munți înalți și văi adânci, iar iarna, Andorra se transformă într-un paradis al zăpezii, perfect pentru schi și săniuș.\nOamenii din Andorra sunt prietenoși și iubitori de tradiții. În fiecare an, ei sărbătoresc festivaluri pline de muzică și dansuri tradiționale, iar tu poți fi parte din această bucurie. Bucătăria lor este plină de arome delicioase, iar preparatele tradiționale te vor face să te simți ca într-un basm culinar.\nAndorra este și un loc perfect pentru cumpărături, pentru că au magazine pline cu jucării fermecate și haine frumoase. De asemenea, poți vizita castele vechi și clădiri istorice care au multe povești de spus.\nÎn concluzie, Andorra este ca o cutie magică cu surprize, unde fiecare colț ascunde ceva special. Așa că, pune-ți pălăria de explorator și vino să descoperi această lume minunată din inima Europei!"
+		}
+	},
+	{
+		"8": {
+			"name": "Angola",
+			"capital": "Luanda",
+			"region": "AF",
+			"currency": {
+				"name": "Kwanza",
+				"code": "AOA",
+				"symbol": "Kz"
+			},
+			"language": "portugheză",
+			"flag": "Angola.png",
+			"area": "1.246.700 km²",
+			"density": "14,8 loc/km²",
+			"description": "Bun venit în Angola, o țară minunată din Africa, unde aventurile și poveștile își găsesc locul printre savane și râuri! Capitala acestei lumi magice este Luanda, un oraș plin de viață și culori strălucitoare.\nAngola este ca un regat fermecat, așezat pe continentul african, unde oamenii vorbesc o limbă specială numită portugheză. Banii pe care îi folosesc aici se numesc \"Kwanza\", iar simbolul lor arată ca un semn magic pe care îl poți găsi pe comori.\nSuprafața țării este mare și plină de surprize. Vei găsi păduri tropicale, câmpii verzi și râuri strălucitoare. Cu atât de multe locuri de explorat, vei avea întotdeauna parte de noi aventuri.\nOamenii din Angola sunt prietenoși și iubitori de tradiții. Ei dansează pe ritmurile muzicii lor tradiționale și te invită să le descoperi poveștile și miturile. Fiecare colț al țării are propriile sale obiceiuri și evenimente speciale.\nAnimalele sălbatice sunt și ele parte din peisajul Angolei. Elefanți, lei și zebre umplu savanele, iar păsările cu penaj colorat zboară deasupra râurilor. Este ca un safari magic în care poți vedea creaturi uimitoare.\nAngola are și plaje frumoase, unde poți să te joci în nisipul fin și să te bucuri de marea strălucitoare. Vara este întotdeauna plină de soare, iar valurile mării te invită la distracție și răcoare.\nÎn concluzie, Angola este ca un loc desprins din basme, cu oameni calzi, natură frumoasă și aventuri nesfârșite. Așa că, pune-ți pălăria de explorator și vino să descoperi această țară fermecată din inima Africii!"
+		}
+	},
+	{
+		"9": {
+			"name": "Anguilla",
+			"capital": "The Valley",
+			"region": "NA",
+			"currency": {
+				"name": "Dolar est-caraibean",
+				"code": "XCD",
+				"symbol": "$"
+			},
+			"language": "engleză",
+			"flag": "Anguilla.png",
+			"area": "102 km²",
+			"density": "132 loc/km²",
+			"description": "Bun venit pe insula Anguilla, un loc minunat în mijlocul apelor strălucitoare ale Caraibelor, unde aventurile se desfășoară sub soarele cald și valurile jucăușe ale mării! Capitala acestei insule fermecate este The Valley, un oraș mic și cochet.\nAnguilla este ca o felie mică de paradis, așezată în partea de nord a Americii de Nord. Oamenii de aici vorbesc limba engleză, așa că te vei simți ca și cum ai fi într-o poveste din cărțile preferate.\nBanii pe care îi folosesc se numesc \"Dolari est-caraibeni\", iar simbolul lor arată ca o comoară strălucitoare. Cu acești dolari, poți cumpăra delicioasele lor bunătăți locale și suveniruri magice.\nInsula Anguilla este micuță, dar este plină de locuri minunate de explorat. Plajele cu nisip alb sunt ca niște covorașe moi, iar marea cristalină te invită să înoți și să te joci în valuri. Este un loc perfect pentru distracție și răsfăț!\nOamenii de pe insula Anguilla sunt prietenoși și iubitori de tradiții. Ei sărbătoresc festivaluri pline de muzică și dansuri tradiționale, iar tu poți să te alături distracției. Bucătăria lor este plină de arome delicioase, iar mâncarea lor locală îți va face gura să te îmbujoreze de plăcere.\nCu păsări colorate și pești jucăuși în apele din jur, poți descoperi o lume subacvatică plină de culoare. Este ca și cum ai fi într-un acvariu uriaș!\nÎn concluzie, Anguilla este ca o insulă fermecată, cu plaje aurii, oameni veseli și aventuri nesfârșite. Așa că, pune-ți costumul de baie și pălăria de soare, pentru că pe insula Anguilla te așteaptă o experiență de neuitat!"
+		}
+	},
+	{
+		"10": {
+			"name": "Antigua și Barbuda",
+			"capital": "St. John's",
+			"region": "NA",
+			"currency": {
+				"name": "Dolar est-caraibean",
+				"code": "XCD",
+				"symbol": "$"
+			},
+			"language": "engleză",
+			"flag": "Antigua si Barbuda.png",
+			"area": "442 km²",
+			"density": "152 loc/km²",
+			"description": "Bun venit în Antigua și Barbuda, un loc magic în mijlocul apelor călduțe ale Caraibelor, unde soarele strălucește mereu, iar plajele aurii așteaptă să fie explorate! Capitala acestei țări minunate este St. John's, un oraș plin de culoare și veselie.\nAntigua și Barbuda sunt ca două comori plutește în mijlocul mării albastre. Oamenii de aici vorbesc limba engleză, așa că vei putea să îi înțelegi și să împărtășești povești cu ei.\nBanii pe care îi folosesc se numesc \"Dolari est-caraibeni\", iar simbolul lor arată ca o comoară strălucitoare. Cu acești dolari, poți să cumperi delicioasele lor fructe tropicale și suveniruri colorate.\nInsulele Antigua și Barbuda sunt ca niște grădini pline de flori tropicale și copaci verzi. Plajele lor sunt perfecte pentru jocuri cu nisip și pentru a prinde razele de soare. Când te plictisești de plajă, poți să explorezi păduri tropicale și să descoperi păsări și fluturi colorați.\nOamenii de aici iubesc să sărbătorească. Ei dansează pe ritmurile muzicii lor tradiționale și sărbătoresc festivaluri cu parade și mâncare delicioasă. Cea mai importantă sărbătoare este Ziua Independenței, când întreaga țară sărbătorește cu mare bucurie.\nÎn apele din jurul insulelor, poți vedea recife de corali colorate și pești jucăuși. Este ca și cum ai fi într-un acvariu imens, iar fiecare creatură subacvatică are o poveste de spus.\nAșadar, Antigua și Barbuda sunt ca niște insule fermecate, cu peisaje minunate și oameni veseli. Aici, fiecare zi este plină de aventură și distracție, iar soarele zâmbește mereu. Prinde-ți pălăria de soare și vino să descoperi această bucată de rai în mijlocul oceanului!"
+		}
+	},
+	{
+		"11": {
+			"name": "Arabia Saudită",
+			"capital": "Riyadh",
+			"region": "AS",
+			"currency": {
+				"name": "Riyal saudit",
+				"code": "SAR",
+				"symbol": "ر.س"
+			},
+			"language": "arabă",
+			"flag": "Arabia Saudita.png",
+			"area": "2.149.690 km²",
+			"density": "12,3 loc/km²",
+			"description": "Bun venit în Arabia Saudită, o țară fermecată situată în inima Asiei, unde descoperirile și istoriile vechi se întâlnesc sub cerul senin și nisipul auriu! Capitala acestei lumi magice este Riyadh, un oraș mare și plin de viață.\nArabia Saudită este ca o comoară ascunsă în deșertul vast. Oamenii vorbesc o limbă magică numită arabă, iar literele lor arată ca niște desene frumoase. Banii pe care îi folosesc se numesc \"Riyal saudit\", iar simbolul lor este ca un semn strălucitor.\nSuprafața țării este uriașă, iar peisajele sunt incredibile. Deșerturile nesfârșite sunt acoperite de nisip fin, iar munții și oazele adaugă o notă specială la această lume. Arabia Saudită are și plaje la Marea Roșie, unde poți să te joci în apele calde și să descoperi viețuitoare marine uimitoare.\nOamenii de aici sunt prietenoși și ospitalieri. Ei își iubesc tradițiile și păstrează istorii vechi. Fiecare oraș are propriile sale piețe animate, unde poți găsi tot felul de bunătăți și suveniruri magice.\nArabia Saudită este locul de naștere al Islamului, iar orașul sfânt Mecca este un loc special pentru musulmani. Fiecare an, milioane de oameni vin aici pentru a sărbători și a se ruga.\nÎn concluzie, Arabia Saudită este ca o poveste din 1001 de nopți, cu deșerturi nesfârșite, orașe pline de viață și istorii străvechi. Fiecare colț ascunde ceva special, iar dacă ești pregătit pentru o călătorie într-o lume magică, Arabia Saudită te așteaptă cu brațele deschise!"
+		}
+	},
+	{
+		"12": {
+			"name": "Argentina",
+			"capital": "Buenos Aires",
+			"region": "SA",
+			"currency": {
+				"name": "Peso argentinian",
+				"code": "ARS",
+				"symbol": "$"
+			},
+			"language": "spaniolă",
+			"flag": "Argentina.png",
+			"area": "2.780.400 km²",
+			"density": "14,4 loc/km²",
+			"description": "Bun venit în Argentina, o țară minunată din partea de sud a Americii de Sud, unde aventurile, dansurile și jocurile de fotbal se împletesc într-un dans vesel sub soarele strălucitor! Capitala acestei țări pline de culoare este Buenos Aires, un oraș vibrant și plin de viață.\nArgentina este ca o lume magică, unde oamenii vorbesc o limbă numită spaniolă. Banii pe care îi folosesc se numesc \"Peso argentinian\", iar simbolul lor arată ca un semn magic de dolar. Cu acești pesos, poți cumpăra delicioasele lor empanadas și să te bucuri de celebrele lor dulciuri numite dulce de leche.\nȚara este mare și plină de surprize. De la munții înalți ai Anzilor la câmpurile nesfârșite de pampas, Argentina are peisaje pentru toate gusturile. Aici, poți să vezi și niște animale speciale numite gauchos, care sunt niște călăreți pricepuți.\nArgentinienii iubesc să danseze tango, un dans pasional și elegant care s-a născut chiar în Buenos Aires. Poți vedea oameni dansând pe străzi și în parcuri, iar dacă vrei, poți învăța și tu pașii de tango!\nFotbalul este o adevărată pasiune în Argentina. Oamenii se adună în parcuri și pe stadioane pentru a urmări echipele lor preferate și pentru a juca fotbal în aer liber. Dacă îți place să joci fotbal, vei găsi cu siguranță prieteni aici.\nCu cascadele impresionante de la Iguazu și cu orașul istoric Cordoba, Argentina este plină de locuri de explorat. Oamenii sunt prietenoși și mereu gata să împărtășească povești și să-ți arate frumusețea țării lor.\nÎn concluzie, Argentina este ca o petrecere care nu se termină niciodată, cu muzică veselă, dansuri pasionale și aventuri nesfârșite. Așa că, pune-ți pantofii de dans și hai să descoperim împreună magia Argentinei!"
+		}
+	},
+	{
+		"13": {
+			"name": "Armenia",
+			"capital": "Erevan",
+			"region": "AS",
+			"currency": {
+				"name": "Dram armean",
+				"code": "AMD",
+				"symbol": "֏"
+			},
+			"language": "armeniană",
+			"flag": "Armenia.png",
+			"area": "29.743 km²",
+			"density": "101,5 loc/km²",
+			"description": "Bun venit în Armenia, o țară minunată așezată în regiunea Asia, unde poveștile vechi și peisajele frumoase se întâlnesc sub cerul senin! Capitala acestei țări pline de istorie este Erevan, un oraș colorat și plin de viață.\nArmenia este ca o comoară străveche, unde oamenii vorbesc o limbă specială numită armeană. Banii pe care îi folosesc se numesc \"Dram armean\", iar simbolul lor arată ca un semn magic. Cu acești darami, poți cumpăra delicioasele lor dulciuri tradiționale numite baklava.\nȚara are peisaje minunate, cu munți înalți și lacuri strălucitoare. Unul dintre cele mai frumoase locuri este Lacul Sevan, unde poți vedea pescăruși jucăuși și poți să te joci pe plajă. De asemenea, poți explora peșterile vechi și fortărețele istorice.\nArmenienii iubesc să sărbătorească și să danseze. Ei au o dans tradițional numit \"kochari\", care este plin de energie și veselie. Cu muzică tradițională și costume colorate, fiecare sărbătoare este o petrecere mare.\nOamenii de aici sunt foarte mândri de istoria și cultura lor. Au o biserică veche numită Etchmiadzin, care este una dintre cele mai vechi biserici din lume. Armenienii sunt meșteri iscusiti în realizarea covoarelor tradiționale, care sunt ca niște opere de artă.\nCu bucataria lor delicioasă, plină de arome și condimente, Armenia este și un paradis culinar. Poți încerca manti, dolma și, desigur, deserturile dulci care îți vor face gura să te îmbujoreze de plăcere.\nÎn concluzie, Armenia este ca o călătorie în timp, cu povești vechi, dansuri vesele și peisaje de basm. Așa că, pune-ți pălăria de explorator și hai să descoperim împreună farmecul acestei țări minunate!"
+		}
+	},
+	{
+		"14": {
+			"name": "Aruba",
+			"capital": "Oranjestad",
+			"region": "NA",
+			"currency": {
+				"name": "Florin arubian",
+				"code": "AWG",
+				"symbol": "ƒ"
+			},
+			"language": "olandeză",
+			"flag": "Aruba.png",
+			"area": "193 km²",
+			"density": "567 loc/km²",
+			"description": "Bun venit pe insula fericirii, Aruba, un loc minunat în mijlocul oceanului, unde soarele zâmbește mereu, iar plajele sunt ca niște covoare de nisip fin! Capitala acestei insule magice este Oranjestad, un oraș plin de culori vesele.\nAruba este ca o perlă strălucitoare în apele albastre ale mării Caraibelor. Oamenii vorbesc o limbă numită olandeză, dar majoritatea folosesc și papiamento, o limbă specială creată pe această insulă fermecată. Banii pe care îi folosesc se numesc \"Florin arubian\", iar simbolul lor este ca un semn de dolar cu un F.\nInsula este mică, dar este plină de surprize. Plajele cu nisip alb sunt perfecte pentru a face castele și a te juca în apa caldă. Pescărușii zboară deasupra mării, iar valurile mării te invită să înoți și să te distrezi.\nArubienii sunt oameni veseli și prietenoși. Ei iubesc să sărbătorească, iar cel mai mare festival al lor este Carnavalul, când străzile devin pline de muzică, dans și costume colorate. Te poți alătura petrecerii și să dansezi sub soarele strălucitor.\nCu deșertul lor uscat, poți merge într-o aventură în căutarea cactușilor și a animalelor deșertului. O altă surpriză este Rochia Naturală, o formațiune stâncoasă în formă de pasăre care se ridică deasupra mării.\nAruba are și un parc național, unde poți vedea animale sălbatice și plante exotice. Este ca o excursie în junglă, unde fiecare pas te aduce mai aproape de natura minunată a insulei.\nÎn concluzie, Aruba este ca o insulă din povești, cu plaje aurii, oameni veseli și aventuri nesfârșite. Așa că, pune-ți costumul de baie și pălăria de soare, pentru că Aruba te așteaptă cu brațele deschise pentru o experiență de neuitat!"
+		}
+	},
+	{
+		"15": {
+			"name": "Insula Ascension",
+			"capital": "Georgetown",
+			"region": "AF",
+			"currency": {
+				"name": "Lira din Sfânta Elena",
+				"code": "SHP",
+				"symbol": "£"
+			},
+			"language": "engleză",
+			"flag": "Insula Ascension.png",
+			"area": "91 km²",
+			"density": "10 loc/km²",
+			"description": "Insula Ascension nu este o țară independentă și nu are o capitală sau o monedă distinctă, deoarece este o dependență a Regatului Unit. De asemenea, nu este asociată cu un continent specific, deoarece este o insulă izolată în Oceanul Atlantic. Cu toate acestea, iată o descriere pentru copii despre Insula Ascension:\nBun venit pe Insula Ascension, o mică bijuterie în mijlocul oceanului, unde aventurile încep într-un decor plin de mister! Ascension este o insulă specială, parte a Regatului Unit, iar oamenii de aici nu au o capitală sau o monedă proprie, pentru că sunt prieteni buni cu cei din Marea Britanie.\nInsula Ascension este ca o bucățică de pământ verde și vulcanic care iese din albastrul infinit al oceanului. Cu munți înalți și plaje liniștite, fiecare colț ascunde o surpriză.\nDeși insula nu este mare, este locul de casă pentru o varietate de păsări și viețuitoare marine. Păsările zburdă în vânt și se joacă pe stânci, iar în apele din jur, poți vedea delfini jucauși și broaște țestoase curioase.\nAscension este cunoscută și pentru rachetele spațiale care sunt lansate de aici. Oamenii de știință vin să studieze cerul și să exploreze spațiul cosmic. Poate vei vedea chiar și urmele unei rachete în cerul senin.\nLocuitorii temporari ai insulei sunt în principal oameni care lucrează la diverse proiecte științifice sau militare. În ciuda dimensiunilor mici, insula are o comunitate prietenoasă, unde oamenii se ajută unii pe alții.\nPlajele cu nisip fin sunt perfecte pentru a face castele sau pentru a te relaxa sub soarele blând. Apele din jur sunt pline de viață, iar dacă îți place să înoți, vei descoperi o lume subacvatică fascinantă.\nÎn concluzie, Insula Ascension este ca o insulă secretă, unde natura și știința se întâlnesc într-un dans armonios. Este un loc liniștit și special, unde fiecare zi aduce cu sine o nouă descoperire și unde copiii curioși sunt mereu bineveniți să exploreze minunățiile acestei insule izolate."
+		}
+	},
+	{
+		"16": {
+			"name": "Australia",
+			"capital": "Canberra",
+			"region": "AU",
+			"currency": {
+				"name": "Dolarul australian",
+				"code": "AUD",
+				"symbol": "$"
+			},
+			"language": "engleză",
+			"flag": "Australia.png",
+			"area": "7.617.930 km²",
+			"density": "3,3 loc/km²",
+			"description": "Bun venit în Australia, o țară minunată unde aventurile mari și creaturile ciudate își spun povestea sub soarele strălucitor! Capitala acestei țări magice este Canberra, un oraș special în mijlocul naturii frumoase.\nAustralia este ca o lume întreagă într-o singură țară. Cu deșerturi mari, păduri tropicale, recife de corali și munți înalți, fiecare colț ascunde o surpriză. Australia este atât o țară, cât și un continent, și este atât de mare încât are două anotimpuri diferite în același timp în diferite părți ale țării.\nOamenii de aici vorbesc o limbă magică numită engleză. Banii pe care îi folosesc se numesc \"Dolar australian\", iar simbolul lor arată ca un S cu o linie în diagonală. Cu acești dolari, poți cumpăra delicioasele lor bucăți de plăcintă, numite meat pie, și să încerci vegemite, un fel de pastă gustoasă.\nAustralia este cunoscută pentru animalele ei unice. Poți vedea cangurii sărind prin câmpii, koalații dormind în eucalipt, iar în apă, ai șansa să vezi rechini și delfini jucauși. Cele mai mari recife de corali din lume, numite Marea Barieră de Corali, sunt aici și sunt ca un paradis subacvatic plin de culori.\nAborigenii sunt oamenii care trăiesc în Australia de mii de ani și au povești fascinante despre cum s-a născut lumea. Ei pictează poveștile lor pe stânci și transmit istoriile mai departe cu ajutorul cântecelor și dansurilor.\nFotbalul australian este un joc special, unde oamenii se aventurează să prindă mingea în timp ce se plimbă pe teren. În plus, Australia este renumită și pentru Festivalul Vivid, când orașele devin pline de lumină și culori, iar oamenii se adună să sărbătorească creativitatea.\nÎn concluzie, Australia este ca o călătorie într-un alt colț al lumii, unde creaturile ciudate și peisajele spectaculoase te vor fermeca. Aici, fiecare zi este o aventură, iar copiii curioși sunt întotdeauna bineveniți să exploreze minunățiile acestei țări pline de viață și culoare."
+		}
+	},
+	{
+		"17": {
+			"name": "Austria",
+			"capital": "Viena",
+			"region": "EU",
+			"currency": {
+				"name": "Euro",
+				"code": "EUR",
+				"symbol": "€"
+			},
+			"language": "germană, austriacă",
+			"flag": "Austria.png",
+			"area": "83.879 km²",
+			"density": "101,4 loc/km²",
+			"description": "Bun venit în Austria, o țară fermecată situată în mijlocul Europei, unde poveștile de basm și melodiile vesele se întâlnesc sub vârfurile înzăpezite ale munților! Capitala acestei țări magice este Viena, un oraș plin de istorie și muzică.\nAustria este ca o casă de păpuși plină de surprize. Oamenii de aici vorbesc o limbă numită germană, iar banii pe care îi folosesc se numesc \"Euro\". Simbolul lor este ca un semn de E cu două linii. Cu acești euro, poți cumpăra prăjituri delicioase și să bei un pahar de apă minerală strălucitoare.\nȚara este înconjurată de munți înalți numiți Alpi, unde poți vedea pârtii de schi în timpul iernii și flori frumoase în timpul verii. Un loc special în Austria este Castelul Schönbrunn, cu grădini pline de flori colorate și fântâni dansatoare. Povestea acestui castel te va purta înapoi în timp.\nAustriecii iubesc muzica, și-au dat lumii compozitori celebri precum Mozart și Beethoven. Poți auzi muzică în aer, fie că este cântată la un concert sau în stradă. În plus, Viena este renumită pentru valsul frumos, iar oamenii dansează pe ritmul lui în timpul balurilor elegante.\nBucătăria austriacă este delicioasă, cu preparate precum schnitzel (carne pane) și apfelstrudel (plăcintă cu mere). În timpul iernii, târgurile de Crăciun transformă piețele într-un loc magic, plin de lumini strălucitoare și mirosuri îmbietoare.\nCu trenurile lor rapide, austriecii călătoresc ușor de la un oraș la altul. Salzburg, orașul natal al lui Mozart, este plin de clădiri istorice și grădini frumoase. Oamenii sunt mereu bucuroși să-ți arate dansuri tradiționale și să-ți povestească despre tradițiile lor.\nÎn concluzie, Austria este ca un spectacol magic, cu munți înalți, muzică dulce și prăjituri delicioase. Aici, poți să dansezi, să descoperi castele vechi și să te bucuri de farmecul țării toată viața. Așa că, pune-ți pantofii de dans și vino să explorezi minunile Austriei!"
+		}
+	},
+	{
+		"18": {
+			"name": "Azerbaidjan",
+			"capital": "Baku",
+			"region": "AS",
+			"currency": {
+				"name": "Manat azerbaidjan",
+				"code": "AZN",
+				"symbol": "₼"
+			},
+			"language": "azeră",
+			"flag": "Azerbaidjan.png",
+			"area": "86.600 km²",
+			"density": "105,8 loc/km²",
+			"description": "Bun venit în Azerbaidjan, o țară magică situată între munți și mări, unde poveștile de mii de ani se împletesc cu zâmbetele calde ale oamenilor! Capitala acestei țări fermecate este Baku, un oraș cu turnuri înalte și străzi pline de culoare.\nAzerbaidjan este ca o comoară străveche în inima Asiei. Oamenii de aici vorbesc o limbă frumoasă numită azeră, iar banii pe care îi folosesc se numesc \"Manat azerbaidjan\". Simbolul lor este ca un semn de dolar cu o linie în mijloc. Cu acești manat, poți cumpăra delicioasele lor dulciuri și să bei un pahar de ayran, o băutură răcoritoare cu iaurt.\nȚara este plină de locuri minunate. Muntele Bazarduzu este ca o păpușă imensă în mijlocul naturii, iar în Valea Gah ca un covor verde întins. Peisajele sunt ca din povești, cu lacuri strălucitoare și cascade zglobii.\nOamenii din Azerbaidjan iubesc să danseze și să cânte. Dansul lor tradițional, \"lezginka\", este plin de energie și veselie. La sărbători, străzile devin pline de muzică și costume frumoase.\nBucătăria azeră este delicioasă, cu preparate precum plov (un fel de mâncare cu orez și carne), dolma (frunze de viță umplute) și shah pilaf (un fel de orez cu carne și nuci). Deserturile lor dulci, cum ar fi baklava, te vor face să îți lingi pe buze.\nAzerbaidjan are și orașe pline de istorie, cum ar fi Şeki, cu case vechi și un palat frumos. Oamenii din târgul Lahij sunt cunoscuți pentru mestesugurile lor, iar aici poți găsi bijuterii frumoase și obiecte din cupru.\nÎn concluzie, Azerbaidjan este ca un colț de poveste, cu peisaje fermecătoare, dansuri pline de viață și mâncare delicioasă. Aici, copiii curioși sunt întotdeauna bineveniți să exploreze secretele și frumusețea acestei țări pline de farmec."
+		}
+	},
+	{
+		"19": {
+			"name": "Bahamas",
+			"capital": "Nassau",
+			"region": "NA",
+			"currency": {
+				"name": "Dolar bahamian",
+				"code": "BSD",
+				"symbol": "B$"
+			},
+			"language": "engleză",
+			"flag": "Bahamas.png",
+			"area": "13.940 km²",
+			"density": "23,27 loc/km²",
+			"description": "Bun venit în Bahamas, o țară magică a insulelor cu plaje aurii, apă cristalină și pescăruși jucauși! Capitala acestui loc de basm este Nassau, un oraș plin de culoare și zâmbete prietenoase.\nBahamas este ca o comoară a naturii, unde soarele strălucește mereu, iar nisipul fin al plajelor este ca o pătură moale. Oamenii din Bahamas vorbesc engleza, iar banii lor se numesc \"Dolar bahamian\". Simbolul lor este ca un semn de dolar cu două linii. Cu acești dolari, poți cumpăra bunătăți delicioase și suveniruri colorate.\nȚara este un colț de paradis, cu păduri de palmieri, recife de corali și apă turcoaz. Pe insula Andros, poți descoperi minunății subacvatice, cum ar fi pești colorați și coral viu. În timpul verii, în aceste ape, îți poți face noi prieteni - delfinii!\nBahamas este cunoscută și pentru porcii sălbatici care trăiesc pe insula Exuma. Acești porci adorabili înoată în apele recifului și se bucură de atenția vizitatorilor. Poți hrăni acești porci și chiar să-ți faci poze amuzante cu ei.\nOamenii din Bahamas iubesc să danseze și să cânte la ritmurile calypso și reggae. Festivalurile lor colorate aduc străzi pline de muzică și dansuri tradiționale. Bucătăria lor este delicioasă, cu preparate precum conch salad (salată cu scoici de mare) și guava duff (un desert dulce).\nCopiii din Bahamas se joacă pe plajă, fac castele de nisip și înoată în apele calde ale oceanului. Se îmbracă în haine colorate și participă la paradele vesele care celebrează cultura lor frumoasă.\nÎn concluzie, Bahamas este ca o vacanță veșnică, unde soarele râde mereu, iar aventurile te așteaptă în fiecare colț. Aici, copiii curioși pot explora frumusețea insulelor și se pot bucura de atmosfera prietenoasă a acestei țări paradisiace."
+		}
+	},
+	{
+		"20": {
+			"name": "Bahrain",
+			"capital": "Manama",
+			"region": "AS",
+			"currency": {
+				"name": "Dinar Bahrainian",
+				"code": "BHD",
+				"symbol": "BD"
+			},
+			"language": "arabă",
+			"flag": "Bahrain.png",
+			"area": "780 km²",
+			"density": "1.831,1 loc/km²",
+			"description": "Bun venit în Bahrain, o mică insulă în mijlocul mării, unde soarele strălucește mereu și poveștile antice se întâlnesc cu tehnologia modernă! Capitala acestei țări fermecate este Manama, un oraș agitat cu clădiri înalte și piețe pline de culoare.\nBahrain este ca o perla strălucitoare în coroana Oceanului Indian. Oamenii de aici vorbesc o limbă magică numită arabă, iar banii pe care îi folosesc se numesc \"Dinar Bahrainian\". Simbolul lor este ca un semn de dolar cu un D. Cu acești dinari, poți cumpăra delicioasele lor deserturi și să te plimbi prin bazarurile pline de comori.\nȚara este mică, dar plină de surprize. Bahrain este cunoscut pentru mărturiile sale istorice, cum ar fi fortăreața Bahrain și templele antice. Înțelepții din Bahrain au păstrat poveștile lor în cărți vechi și în ceramica frumoasă.\nOamenii din Bahrain iubesc să danseze și să cânte la ritmurile tradiționale ale muzicii lor. La festivalurile lor colorate, poți vedea dansuri tradiționale și poți încerca mâncăruri delicioase cum ar fi hawawshi (plăcintă umplută cu carne).\nBahrain este și un loc modern, cu zgârie-nori și tehnologie avansată. Podul Bahrain, care leagă insula de continent, este ca o cale de acces magică în lumea lor. Mall-urile sunt pline de magazine și parcuri de distracții unde copiii se pot juca și distra.\nCopiii din Bahrain merg la școală și învață multe lucruri interesante despre istoria țării lor și despre lumea din jur. În weekend, se întâlnesc cu prietenii în parcuri sau pe plajă și se joacă împreună.\nÎn concluzie, Bahrain este ca o perlă magică, cu istorie veche și viitor strălucitor. Aici, copiii curioși pot explora trecutul și prezentul, se pot bucura de frumusețea insulei și se pot împrieteni cu oameni calzi și prietenoși."
+		}
+	},
+	{
+		"21": {
+			"name": "Bangladesh",
+			"capital": "Dhaka",
+			"region": "AS",
+			"currency": {
+				"name": "Taka",
+				"code": "BDT",
+				"symbol": "৳"
+			},
+			"language": "bengală",
+			"flag": "Bangladesh.png",
+			"area": "144.000 km²",
+			"density": "1.002 loc/km²",
+			"description": "Bun venit în Bangladesh, o țară fermecată din Asia, unde râurile fluviilor dansează și copiii zâmbesc mereu! Capitala acestei țări pline de viață este Dacca, un oraș colorat cu clădiri vesele și bazare pline de comori.\nBangladesh este ca o grădină plină de flori exotice și animale vesele. Oamenii de aici vorbesc o limbă numită bengaleză, iar banii pe care îi folosesc se numesc \"Taka\". Simbolul lor este ca un semn de dolar cu două linii. Cu acești taka, poți cumpăra delicioasele lor mâncăruri și să te plimbi pe străzile animate ale piețelor.\nȚara este binecuvântată cu râuri mari, cum ar fi Gange și Brahmaputra, care aduc viață și fertilitate în pământul lor. Copiii din Bangladesh își petrec zilele jucându-se pe malurile acestor râuri și observând păsările colorate care zboară în cer.\nBengalezii iubesc să danseze și să cânte la ritmurile tradiționale ale muzicii lor. Dansul \"Bihu\" este plin de energie și fericire, iar la festivalurile lor, oamenii se îmbracă în haine strălucitoare și împărtășesc bucuria cu toată lumea.\nBucătăria din Bangladesh este plină de arome delicioase. Curry-ul cu orez este un fel de mâncare popular, iar copiii se bucură de dulciuri ca mishti doi (un desert dulce) și roshogolla (bile de brânză în sirop dulce).\nCopiii merg la școală și învață multe lucruri interesante despre istoria și cultura țării lor. Bangladeshul are și orașe moderne, cum ar fi Chittagong, unde copiii se pot juca în parcuri și vizita muzee fascinante.\nÎn concluzie, Bangladesh este ca o poveste veselă, cu păduri verzi, râuri vesele și zâmbete calde. Aici, copiii curioși pot explora natura bogată, pot învăța dansuri pline de viață și pot gusta din deliciile bucatariei locale."
+		}
+	},
+	{
+		"22": {
+			"name": "Barbados",
+			"capital": "Bridgetown",
+			"region": "NA",
+			"currency": {
+				"name": "Dolar Barbadian",
+				"code": "BBD",
+				"symbol": "Bds$"
+			},
+			"language": "engleză",
+			"flag": "Barbados.png",
+			"area": "430 km²",
+			"density": "642 loc/km²",
+			"description": "Bun venit în Barbados, o insulă fermecată în mijlocul mării Caraibelor, unde soarele strălucește mereu și melodiile calypso se aud pe plajă! Capitala acestei țări minunate este Bridgetown, un oraș vesel cu clădiri colorate și plaje aurii.\nBarbados este ca o comoară tropicală, cu nisip fin și apă turcoaz. Oamenii de aici vorbesc engleza, iar banii pe care îi folosesc se numesc \"Dolar Barbadian\". Simbolul lor este ca un semn de dolar cu două linii. Cu acești dolari, poți cumpăra delicioasele lor preparate și să explorezi plajele și peisajele minunate.\nInsula este plină de palmieri înalți, unde copiii se pot juca și pot face castele de nisip. Barbados este cunoscută pentru recifele sale de corali, unde poți vedea pești colorați și broaște țestoase jucăușe în apă.\nOamenii din Barbados iubesc muzica și dansul. Calypso și soca sunt ritmurile tradiționale ale insulei, iar oamenii dansează pe plajă la festivaluri vesele. Copiii își pot lua pălării cu boruri și pot participa la parade pline de veselie.\nBucătăria din Barbados este delicioasă, cu preparate precum flying fish (pește zburător), cou-cou (o mâncare cu porumb și pește), și rum cake (un desert cu rom). Copiii se bucură de înghețată și alte dulciuri tropicale.\nBarbados are și păduri tropicale și grădini botanice, unde copiii pot vedea plante exotice și animale vesele. O excursie cu barca în jurul insulei le oferă o privire minunată asupra vieții marine.\nÎn concluzie, Barbados este ca o petrecere veselă pe plajă, cu soare strălucitor și râsete zglobii. Aici, copiii curioși pot explora natura tropicală, pot dansa pe ritmurile tradiționale și pot savura aromele bucatariei locale."
+		}
+	},
+	{
+		"23": {
+			"name": "Belarus",
+			"capital": "Minsk",
+			"region": "EU",
+			"currency": {
+				"name": "Rubla belarusă",
+				"code": "BYN",
+				"symbol": "Br"
+			},
+			"language": "bielorusă, rusă",
+			"flag": "Belarus.png",
+			"area": "207.595 km²",
+			"density": "60 loc/km²",
+			"description": "Bun venit în Belarus, o țară plină de păduri verzi, lacuri frumoase și orașe istorice! Capitala acestei țări fermecate este Minsk, un oraș plin de clădiri interesante și parcuri frumoase.\nBelarus este ca o carte de povești, cu peisaje naturale minunate și oameni prietenoși. Aici, oamenii vorbesc două limbi: bielorusă și rusă. Banii pe care îi folosesc se numesc \"Rubla belarusă\", iar simbolul lor este ca un simbol de rublă cu litera B. Cu acești bani, poți cumpăra gustări delicioase și suveniruri frumoase.\nȚara este acoperită de păduri și câmpuri verzi, unde copiii se pot juca și pot descoperi flori colorate și păsări cântătoare. Belarus are și lacuri mari, unde poți face plimbări cu barca și poți vedea lebede elegante în apa limpede.\nOamenii din Belarus iubesc să sărbătorească tradițiile lor. La festivaluri, poți vedea dansuri tradiționale și poți gusta bucate delicioase precum draniki (clătite de cartofi) și kolduny (mâncare cu carne și cartofi).\nBelarus are și castele și biserici vechi, pline de istorie. Copiii pot vizita aceste locuri pentru a înțelege cum era viața în trecut. Există și muzee interesante, unde se pot vedea obiecte vechi și descoperi poveștile trecutului.\nBelarus are și un tren special, numit \"Belaruskiy ekspress\", care călătorește prin țară și oferă o privire frumoasă asupra peisajelor. O excursie cu acest tren poate fi o aventură interesantă pentru copii.\nÎn concluzie, Belarus este ca o grădină mare plină de comori istorice și naturale. Aici, copiii curioși pot explora pădurile frumoase, pot învăța despre tradițiile locului și pot descoperi istoria interesantă a acestei țări prietenoase."
+		}
+	},
+	{
+		"24": {
+			"name": "Belgia",
+			"capital": "Bruxelles",
+			"region": "EU",
+			"currency": {
+				"name": "Euro",
+				"code": "EUR",
+				"symbol": "€"
+			},
+			"language": "olandeză, franceză, germană",
+			"flag": "Belgia.png",
+			"area": "30.528 km²",
+			"density": "362,6 loc/km²",
+			"description": "Bun venit în Belgia, o țară mică din Europa, plină de ciocolată delicioasă, castele frumoase și orașe pline de culoare! Capitala acestei țări fermecate este Bruxelles, un oraș vesel cu străzi pietruite și clădiri vesele.\nBelgia este ca o cutie de bomboane, cu trei limbi oficiale: olandeză, franceză și germană. Oamenii de aici folosesc euro pentru a cumpăra lucruri, iar simbolul lor este ca un semn de euro cu două linii. Cu acești euro, poți cumpăra celebrele lor bomboane și să te plimbi pe străzile pline de magazine interesante.\nȚara este plină de castele frumoase, unde copiii se pot imagina că sunt prinți și prințese. Unul dintre cele mai cunoscute este Castelul Laarne, unde se pot vedea vechiul pod și turnurile înalte. Belgia are și păduri și parcuri, unde copiii se pot juca și pot vedea păsări colorate.\nCiocolata din Belgia este faimoasă în întreaga lume. Belgienii fac ciocolată din ingrediente speciale, iar copiii se pot bucura de pralinele cu diferite arome. La Bruxelles, există o statuie amuzantă numită \"Manneken Pis\", care este o figurină mică care face pipi și aduce zâmbete pe fețele celor mici.\nBelgienii iubesc să sărbătorească carnavalul cu parade colorate și costume amuzante. La festivaluri, oamenii dansează și cântă la ritmuri vesele. Există și târguri cu jucării și delicii pentru copii.\nBelgia are și orașe moderne, precum Antwerp și Ghent, unde copiii se pot bucura de parcuri mari și pot vizita muzee interesante. O excursie cu bicicleta prin peisajele frumoase ale țării poate fi o aventură distractivă pentru familii.\nÎn concluzie, Belgia este ca o poveste magică, cu ciocolată delicioasă, castele frumoase și sărbători vesele. Aici, copiii curioși pot explora orașele pline de culoare, pot gusta din dulciurile locale și se pot bucura de atmosfera caldă și prietenoasă a acestei țări fermecate."
+		}
+	},
+	{
+		"25": {
+			"name": "Belize",
+			"capital": "Belmopan",
+			"region": "NA",
+			"currency": {
+				"name": "Dolar Belizean",
+				"code": "BZD",
+				"symbol": "BZ$"
+			},
+			"language": "engleză, spaniolă",
+			"flag": "Belize.png",
+			"area": "22.966 km²",
+			"density": "15 loc/km²",
+			"description": "Bun venit în Belize, o țară minunată situată în inima junglei și la malul mării! Capitala acestei țări fermecate este Belmopan, un oraș mic și prietenos, unde natura este la ea acasă.\nBelize este ca un paradis natural, cu păduri tropicale pline de animale fascinante și plaje cu nisip fin. Aici, oamenii vorbesc engleza, iar banii pe care îi folosesc se numesc \"Dolar Belizean\". Simbolul lor este ca un simbol de dolar cu două linii. Cu acești dolari, poți cumpăra gustări delicioase și suveniruri frumoase.\nUna dintre cele mai cunoscute atracții din Belize este Marea Barieră de Corali, cea mai mare barieră de corali din emisfera de vest. Această barieră este ca un tărâm subacvatic magic, plin de pești colorați și recife de corali. Copiii se pot bucura de snorkeling și pot vedea lumea subacvatică minunată.\nBelize este și locul unde trăiesc maimuțe haioase numite \"mico\", care sălta printre copaci în pădurile tropicale. Copiii pot merge în excursii prin junglă și pot vedea animale precum jaguari și păsări exotice.\nOamenii din Belize iubesc să sărbătorească cultura lor diversă. La festivaluri, se dansează la ritmurile muzicii locale, iar copiii pot învăța să danseze și să cânte. Bucătăria belizeană este plină de arome delicioase, iar mâncărurile precum arroz con pollo (orez cu pui) sunt preferate de toată lumea.\nBelize are și ruine mayașe, cum ar fi Xunantunich, unde copiii se pot plimba printre vechile temple și pot afla povești fascinante despre civilizația mayașă.\nÎn concluzie, Belize este ca un loc de basm, cu junglă frumoasă, recife subacvatice și oameni prietenoși. Aici, copiii curioși pot explora natura bogată, pot învăța despre istoria și cultura locului și se pot bucura de aventurile unice pe care le oferă această țară minunată."
+		}
+	},
+	{
+		"26": {
+			"name": "Benin",
+			"capital": "Porto-Novo",
+			"region": "AF",
+			"currency": {
+				"name": "Franc CFA",
+				"code": "XOF",
+				"symbol": "CFA"
+			},
+			"language": "franceză",
+			"flag": "Benin.png",
+			"area": "112.620 km²",
+			"density": "78,1 loc/km²",
+			"description": "Bun venit în Benin, o țară plină de culori vibrante, tradiții bogate și oameni zâmbitori! Benin se află în inima Africii și are două capitale: Porto-Novo și Cotonou. Porto-Novo este centrul administrativ, iar Cotonou este cel mai mare oraș.\nOamenii din Benin vorbesc franceza, iar moneda lor este Francul CFA din Africa de Vest. Cu acești bani, poți explora piețele pline de culori și poți cumpăra suveniruri frumoase.\nBenin are peisaje diverse, de la plaje aurii la sate tradiționale și păduri tropicale. Un loc special în Benin este Lacul Nokoué, unde casele palafitice stau deasupra apei, iar oamenii se deplasează cu bărcile. Copiii se pot bucura de plimbări cu barca și pot vedea viața fascinantă de pe lac.\nCultura din Benin este plină de dansuri și muzică. Oamenii sărbătoresc cu parade pline de energie și costume colorate. Copiii pot învăța să danseze ritmurile tradiționale și să se distreze la festivaluri.\nUn loc interesant pentru copii este Cotonou, unde pot explora piața Dantokpa, una dintre cele mai mari piețe din Africa de Vest. Aici pot vedea vânzători amabili, culori vii și pot gusta fructe exotice delicioase.\nBenin are și istorie bogată. Oamenii pot vizita Palatul Roșu din Porto-Novo și pot afla povești despre regii din trecut. Ruinele orașului Ouidah reprezintă un loc unde copiii pot învăța despre istoria comerțului de sclavi din Africa.\nÎn concluzie, Benin este ca o călătorie plină de descoperiri, unde copiii pot învăța despre tradițiile vibrante, pot explora peisajele diverse și pot întâlni oameni prietenoși care își împărtășesc cu bucurie cultura lor minunată."
+		}
+	},
+	{
+		"27": {
+			"name": "Bhutan",
+			"capital": "Thimphu",
+			"region": "AS",
+			"currency": {
+				"name": "Ngultrumul bhutanian",
+				"code": "BTN",
+				"symbol": "Nu"
+			},
+			"language": "dzongkhă",
+			"flag": "Bhutan.png",
+			"area": "47.500 km²",
+			"density": "14 loc/km²",
+			"description": "Bun venit în Bhutan, o țară măreață din Asia, așezată în mijlocul munților și plină de cultura sa unică! Capitala acestei țări fermecate este Thimphu, un oraș mic și fermecător, unde tradițiile vechi se împletesc cu modernul.\nBhutan folosește o monedă specială numită Ngultrum. Cu acești bani, copiii pot explora piețele locale și pot cumpăra suveniruri frumoase.\nȚara este renumită pentru munții săi înalți și peisajele spectaculoase. Bhutan este acoperit de păduri verzi, unde trăiesc animale sălbatice precum tigri și lei. Copiii se pot bucura de plimbări prin natură și pot vedea flori colorate și păsări frumoase.\nOamenii din Bhutan vorbesc o limbă specială numită Dzongkha. Bhutan are o cultură bogată, plină de dansuri și festivaluri. Unul dintre cele mai cunoscute festivaluri este Tsechu, unde oamenii poartă costume tradiționale colorate și dansează în ritmurile muzicii tradiționale.\nBhutan este locul unde se află celebrul mănăstirii Tiger's Nest, un loc sfânt situat pe un munte înalt. Copiii pot asculta povești fascinante despre mănăstiri și călugări și pot învăța despre spiritualitatea locului.\nȘcolile din Bhutan pun accent pe fericirea și bunăstarea elevilor, nu doar pe note. Copiii învață despre valorile tradiționale bhutaneze și cum să își respecte mediul înconjurător.\nBhutan este singura țară din lume care măsoară fericirea populației prin \"Fericirea Internă Brută\" în loc de PIB. Oamenii de aici cred că fericirea vine din echilibrul dintre dezvoltarea materială și bunăstarea spirituală.\nÎn concluzie, Bhutan este ca un colț de lume magic, unde copiii pot învăța despre frumusețea naturii, pot descoperi tradițiile unice și pot simți energia pozitivă a acestei țări pline de inimi calde."
+		}
+	},
+	{
+		"28": {
+			"name": "Bolivia",
+			"capital": "La Paz",
+			"region": "SA",
+			"currency": {
+				"name": "Boliviano",
+				"code": "BOB",
+				"symbol": "Bs"
+			},
+			"language": "spaniolă",
+			"flag": "Bolivia.png",
+			"area": "1.098.581 km²",
+			"density": "9 loc/km²",
+			"description": "Bun venit în Bolivia, o țară plină de munți înalți, păduri tropicale și culturi vibrante! Bolivia are două capitale: Sucre, unde se află guvernul, și La Paz, cel mai mare oraș.\nBolivia folosește o monedă numită Boliviano. Cu acești bani, copiii pot explora piețele locale, unde vânzătorii prietenoși oferă suveniruri unice și mâncăruri delicioase.\nO caracteristică specială a Boliviei este Altiplano, o regiune înaltă și plată situată între munții înalți. Aici, copiii se pot bucura de priveliști uimitoare ale lacurilor albastre și ale muntelui Illimani, care este considerat sacru de mulți oameni.\nOamenii din Bolivia vorbesc spaniola, dar există și multe alte limbi, cum ar fi quechua și aymara. În timpul sărbătorilor, oamenii dansează și cântă la ritmurile muzicii tradiționale. Festivalul \"Carnaval de Oruro\" este un eveniment colorat și plin de energie, unde oamenii poartă costume strălucitoare și dansuri tradiționale.\nBolivia are și unul dintre cele mai mari sărăcii din America de Sud, dar oamenii de aici sunt cunoscuți pentru spiritul lor rezistent și vesel. Copiii pot învăța despre cultura bogată a popoarelor indigene, care au tradiții vechi și artizanat frumos.\nCopiii curioși pot explora Piața Murillo din La Paz, unde se află clădirea guvernului și Catedrala Metropolitană. Pot vizita și Salina Uyuni, un deșert de sare imens unde pot vedea peisaje uimitoare și pot afla despre modul în care se extrage sarea.\nÎn concluzie, Bolivia este ca o aventură plină de culori, munți înalți și povești fascinante. Aici, copiii pot învăța despre diversitatea culturală, pot explora natura spectaculoasă și se pot bucura de ospitalitatea caldă a oamenilor din această țară minunată din inima Americii de Sud."
+		}
+	},
+	{
+		"29": {
+			"name": "Bosnia și Hertegovina",
+			"capital": "Sarajevo",
+			"region": "EU",
+			"currency": {
+				"name": "Marca bosniacă",
+				"code": "BAM",
+				"symbol": "KM"
+			},
+			"language": "bosniacă, croată, sârbă",
+			"flag": "Bosnia si Hertegovina.png",
+			"area": "51.129 km²",
+			"density": "75,1 loc/km²",
+			"description": "Bun venit în Bosnia și Herțegovina, o țară fermecătoare cu peisaje frumoase și o istorie bogată! Capitala acestei țări minunate este Sarajevo, un oraș plin de viață și cultură.\nMoneda pe care o folosesc oamenii din Bosnia și Herțegovina se numește Convertibilul marca bosniacă. Cu acești bani, copiii pot explora târgurile și piețele locale, unde găsesc suveniruri unice și delicii locale.\nBosnia și Herțegovina se află în inima Europei și are o diversitate culturală impresionantă. Limbile oficiale sunt bosniațiană, croată și sârbă. Oamenii sunt mândri de tradițiile lor și iubesc să împărtășească dansuri și cântece tradiționale.\nPeisajele naturale sunt deosebite, cu munți înalți, râuri cristaline și păduri luxuriante. Copiii se pot bucura de aventuri în natură și pot explora castele medievale precum Castelul Jajce, care are o istorie fascinantă.\nOamenii din Bosnia și Herțegovina sunt cunoscuți pentru ospitalitatea lor caldă și bucatele delicioase. Copiii pot gusta bucate tradiționale precum ćevapi (mici de carne) și burek (plăcintă cu carne sau brânză).\nUn loc special este Podul Vechi din Mostar, un pod istoric care traversează râul Neretva. Oamenii fac sărituri în apă de pe acest pod și organizează competiții tradiționale de sărituri în apă.\nBosnia și Herțegovina au trecut prin perioade dificile în trecut, dar oamenii s-au unit pentru a-și reconstrui țara. Copiii pot învăța despre importanța păcii și a toleranței în această țară care a depășit obstacolele cu forța unității.\nÎn concluzie, Bosnia și Herțegovina este ca o poveste de basm, cu peisaje frumoase, cultură vibrată și oameni prietenoși. Aici, copiii pot învăța despre diversitate, pot explora trecutul istoric și pot simți căldura unei țări pline de inimi deschise."
+		}
+	},
+	{
+		"30": {
+			"name": "Botswana",
+			"capital": "Gaborone",
+			"region": "AF",
+			"currency": {
+				"name": "Pula",
+				"code": "BWP",
+				"symbol": "P"
+			},
+			"language": "engleză, tswana",
+			"flag": "Botswana.png",
+			"area": "581.730 km²",
+			"density": "3,4 loc/km²",
+			"description": "Bun venit în Botswana, o țară minunată din Africa, cunoscută pentru parcurile sale naturale și animalele sălbatice! Capitala acestei țări este Gaborone, un oraș prietenos și plin de viață.\nOamenii din Botswana folosesc o monedă numită Pula. Cu acești bani, copiii pot explora târgurile locale și pot cumpăra suveniruri frumoase și colorate.\nBotswana este casa unor peisaje naturale uimitoare. Parcul Național Chobe este locul unde copiii pot vedea elefanți, lei și multe alte animale sălbatice în habitatul lor natural. Delta Okavango este un loc special, unde copiii se pot bucura de plimbări cu barca și pot vedea crocodili și hipopotami.\nOamenii din Botswana vorbesc engleza și setswana, iar cultura lor este bogată în tradiții și dansuri. Copiii pot participa la dansurile tradiționale și pot învăța despre importanța animalelor sălbatice în viața lor de zi cu zi.\nBotswana are un climat cald și uscat, cu mult soare și temperaturi prietenoase. Copiii pot explora rezervații de animale și pot învăța despre conservarea naturii și protejarea animalelor sălbatice.\nUna dintre cele mai mari atracții este \"Marea Râu Thamalakane\", unde copiii se pot bucura de plimbări cu barca și pot admira flora și fauna bogată a regiunii.\nBotswana este o țară prietenoasă și plină de oameni ospitalieri. Copiii pot învăța despre tradițiile locale, pot gusta mâncăruri tradiționale precum seswaa (carne de vită gătită lent) și pot simți căldura și bunătatea oamenilor din această destinație specială din inima Africii.\nÎn concluzie, Botswana este ca o aventură în sălbăticie, unde copiii pot descoperi frumusețea naturii, pot învăța despre animalele sălbatice și pot simți bucuria unei culturi pline de culoare și ospitalitate."
+		}
 	}
 ]

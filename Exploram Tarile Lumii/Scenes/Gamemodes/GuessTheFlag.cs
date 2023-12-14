@@ -54,6 +54,8 @@ namespace Exploram_Tarile_Lumii.Scenes.Gamemodes
             choiceButtons[selection].Text = country.name;
             for (int i = 0; i < 3; i++)
             {
+                choiceButtons[i].BackColor = Color.White;
+                choiceButtons[i].Enabled = true;
                 if (selection == i)
                 { continue; }
                 do
@@ -66,6 +68,7 @@ namespace Exploram_Tarile_Lumii.Scenes.Gamemodes
 
         private void ChooseRandomCountry()
         {
+            LB_Hint.Visible = false;
             if (usedCountryIndexes.Count == Main_Form.countryList.Count)
             {
                 MessageBox.Show($"Congrats, you guessed: {correct_answers}/{Main_Form.countryList.Count}", "Game Over");
@@ -81,6 +84,7 @@ namespace Exploram_Tarile_Lumii.Scenes.Gamemodes
             usedCountryIndexes.Add(generation);
             country = Main_Form.countryList[generation];
             pictureBox_Flag.BackgroundImage = country.flag;
+            pictureBox_Hint.Enabled = true;
             AssignToRandomButton();
         }
 
@@ -90,21 +94,40 @@ namespace Exploram_Tarile_Lumii.Scenes.Gamemodes
             ChooseRandomCountry();
         }
 
-        private void CheckAnswer(object sender, EventArgs e)
+        private async void CheckAnswer(object sender, EventArgs e)
         {
+            pictureBox_Flag.Focus();
+            pictureBox_Hint.Enabled = false;
             foreach (var button in choiceButtons)
             {
-                if (sender.GetHashCode() == button.GetHashCode() && button.Text == country.name)
+                button.Enabled = false;
+                if (sender.GetHashCode() == button.GetHashCode())
                 {
                     // Corect answer.
-                    correct_answers++;
-                    ChooseRandomCountry();
-                    return;
+                    if (button.Text == country.name)
+                    {
+                        correct_answers++;
+                        button.BackColor = Color.Lime;
+                    }
+                    // Incorrect answer.
+                    else
+                    {
+                        // Mark the correct answer with green and wrong with red.
+                        button.BackColor = Color.Red;
+                        choiceButtons.FirstOrDefault(btn => btn.Text == country.name).BackColor = Color.Lime;
+                    }
                 }
             }
 
-            // Incorrect answer.
+            await Task.Delay(700);
             ChooseRandomCountry();
+        }
+
+        private void GetHint(object sender, EventArgs e)
+        {
+            LB_Hint.Text = $"Capitala mea este: {country.capital}";
+            LB_Hint.Location = new Point((this.Width - LB_Hint.Width) / 2, LB_Hint.Location.Y);
+            LB_Hint.Visible = true;
         }
     }
 }

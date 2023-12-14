@@ -27,8 +27,8 @@ namespace Exploram_Tarile_Lumii
         {
             countryList = ParseJson(File.ReadAllText(@$"{resourcesPath}countries.json"));
             // Center UI Controls.
-            Scene_MainMenu.Location = new Point((this.Size.Width - Scene_MainMenu.Width) / 2, (this.Size.Height - Scene_MainMenu.Height) / 2);
-            Scene_SelectGamemode.Location = new Point((this.Size.Width - Scene_SelectGamemode.Width) / 2, (this.Size.Height - Scene_SelectGamemode.Height) / 2);
+            Scene_MainMenu.Location = new Point((this.Width - Scene_MainMenu.Width) / 2, (this.Height - Scene_MainMenu.Height) / 2);
+            Scene_SelectGamemode.Location = new Point((this.Width - Scene_SelectGamemode.Width) / 2, (this.Height - Scene_SelectGamemode.Height) / 2);
             Debug.WriteLine($"MM: {Scene_MainMenu.Location} - GM: {Scene_SelectGamemode.Location}");
             // Load the Main Menu Scene.
             Scene_MainMenu.Visible = true;

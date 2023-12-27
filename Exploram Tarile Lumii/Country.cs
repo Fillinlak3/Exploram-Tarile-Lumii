@@ -15,6 +15,7 @@
         public string name { get; set; } = String.Empty;
         public string capital { get; set; } = String.Empty;
         public string region { get; set; } = String.Empty;
+        public bool isCountry { get; set; } = false;
         public Currency currency;
         public string language { get; set; } = String.Empty;
         public Bitmap? flag { get; set; } = null;

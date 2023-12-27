@@ -4,6 +4,7 @@
 			"name": "Abhazia",
 			"capital": "Suhumi",
 			"region": "AS",
+			"isCountry": "false",
 			"currency": {
 				"name": "Rubla rusă",
 				"code": "RUB",
@@ -21,6 +22,7 @@
 			"name": "Afganistan",
 			"capital": "Kabul",
 			"region": "AS",
+			"isCountry": "true",
 			"currency": {
 				"name": "Afghani",
 				"code": "AFN",
@@ -38,6 +40,7 @@
 			"name": "Africa de Sud",
 			"capital": "Pretoria",
 			"region": "AF",
+			"isCountry": "true",
 			"currency": {
 				"name": "Rand",
 				"code": "ZAR",
@@ -55,6 +58,7 @@
 			"name": "Akrotiri și Dhekelia",
 			"capital": "Cantonamentul Episkopi",
 			"region": "EU",
+			"isCountry": "false",
 			"currency": {
 				"name": "Euro",
 				"code": "EUR",
@@ -72,6 +76,7 @@
 			"name": "Albania",
 			"capital": "Tirana",
 			"region": "EU",
+			"isCountry": "true",
 			"currency": {
 				"name": "Lek",
 				"code": "ALL",
@@ -89,6 +94,7 @@
 			"name": "Algeria",
 			"capital": "Alger",
 			"region": "AF",
+			"isCountry": "true",
 			"currency": {
 				"name": "Dinar algerian",
 				"code": "DZD",
@@ -106,6 +112,7 @@
 			"name": "Andorra",
 			"capital": "Andorra la Vella",
 			"region": "EU",
+			"isCountry": "true",
 			"currency": {
 				"name": "Euro",
 				"code": "EUR",
@@ -123,6 +130,7 @@
 			"name": "Angola",
 			"capital": "Luanda",
 			"region": "AF",
+			"isCountry": "true",
 			"currency": {
 				"name": "Kwanza",
 				"code": "AOA",
@@ -140,6 +148,7 @@
 			"name": "Anguilla",
 			"capital": "The Valley",
 			"region": "NA",
+			"isCountry": "false",
 			"currency": {
 				"name": "Dolar est-caraibean",
 				"code": "XCD",
@@ -157,6 +166,7 @@
 			"name": "Antigua și Barbuda",
 			"capital": "St. John's",
 			"region": "NA",
+			"isCountry": "true",
 			"currency": {
 				"name": "Dolar est-caraibean",
 				"code": "XCD",
@@ -174,6 +184,7 @@
 			"name": "Arabia Saudită",
 			"capital": "Riyadh",
 			"region": "AS",
+			"isCountry": "true",
 			"currency": {
 				"name": "Riyal saudit",
 				"code": "SAR",
@@ -191,6 +202,7 @@
 			"name": "Argentina",
 			"capital": "Buenos Aires",
 			"region": "SA",
+			"isCountry": "true",
 			"currency": {
 				"name": "Peso argentinian",
 				"code": "ARS",
@@ -208,6 +220,7 @@
 			"name": "Armenia",
 			"capital": "Erevan",
 			"region": "AS",
+			"isCountry": "true",
 			"currency": {
 				"name": "Dram armean",
 				"code": "AMD",
@@ -225,6 +238,7 @@
 			"name": "Aruba",
 			"capital": "Oranjestad",
 			"region": "NA",
+			"isCountry": "true",
 			"currency": {
 				"name": "Florin arubian",
 				"code": "AWG",
@@ -242,6 +256,7 @@
 			"name": "Insula Ascension",
 			"capital": "Georgetown",
 			"region": "AF",
+			"isCountry": "false",
 			"currency": {
 				"name": "Lira din Sfânta Elena",
 				"code": "SHP",
@@ -259,6 +274,7 @@
 			"name": "Australia",
 			"capital": "Canberra",
 			"region": "AU",
+			"isCountry": "true",
 			"currency": {
 				"name": "Dolarul australian",
 				"code": "AUD",
@@ -276,6 +292,7 @@
 			"name": "Austria",
 			"capital": "Viena",
 			"region": "EU",
+			"isCountry": "true",
 			"currency": {
 				"name": "Euro",
 				"code": "EUR",
@@ -293,6 +310,7 @@
 			"name": "Azerbaidjan",
 			"capital": "Baku",
 			"region": "AS",
+			"isCountry": "true",
 			"currency": {
 				"name": "Manat azerbaidjan",
 				"code": "AZN",
@@ -310,6 +328,7 @@
 			"name": "Bahamas",
 			"capital": "Nassau",
 			"region": "NA",
+			"isCountry": "true",
 			"currency": {
 				"name": "Dolar bahamian",
 				"code": "BSD",
@@ -327,6 +346,7 @@
 			"name": "Bahrain",
 			"capital": "Manama",
 			"region": "AS",
+			"isCountry": "true",
 			"currency": {
 				"name": "Dinar Bahrainian",
 				"code": "BHD",
@@ -344,6 +364,7 @@
 			"name": "Bangladesh",
 			"capital": "Dhaka",
 			"region": "AS",
+			"isCountry": "true",
 			"currency": {
 				"name": "Taka",
 				"code": "BDT",
@@ -361,6 +382,7 @@
 			"name": "Barbados",
 			"capital": "Bridgetown",
 			"region": "NA",
+			"isCountry": "true",
 			"currency": {
 				"name": "Dolar Barbadian",
 				"code": "BBD",
@@ -378,6 +400,7 @@
 			"name": "Belarus",
 			"capital": "Minsk",
 			"region": "EU",
+			"isCountry": "true",
 			"currency": {
 				"name": "Rubla belarusă",
 				"code": "BYN",
@@ -395,6 +418,7 @@
 			"name": "Belgia",
 			"capital": "Bruxelles",
 			"region": "EU",
+			"isCountry": "true",
 			"currency": {
 				"name": "Euro",
 				"code": "EUR",
@@ -412,6 +436,7 @@
 			"name": "Belize",
 			"capital": "Belmopan",
 			"region": "NA",
+			"isCountry": "true",
 			"currency": {
 				"name": "Dolar Belizean",
 				"code": "BZD",
@@ -429,6 +454,7 @@
 			"name": "Benin",
 			"capital": "Porto-Novo",
 			"region": "AF",
+			"isCountry": "true",
 			"currency": {
 				"name": "Franc CFA",
 				"code": "XOF",
@@ -446,6 +472,7 @@
 			"name": "Bhutan",
 			"capital": "Thimphu",
 			"region": "AS",
+			"isCountry": "true",
 			"currency": {
 				"name": "Ngultrumul bhutanian",
 				"code": "BTN",
@@ -463,6 +490,7 @@
 			"name": "Bolivia",
 			"capital": "La Paz",
 			"region": "SA",
+			"isCountry": "true",
 			"currency": {
 				"name": "Boliviano",
 				"code": "BOB",
@@ -480,6 +508,7 @@
 			"name": "Bosnia și Hertegovina",
 			"capital": "Sarajevo",
 			"region": "EU",
+			"isCountry": "true",
 			"currency": {
 				"name": "Marca bosniacă",
 				"code": "BAM",
@@ -497,6 +526,7 @@
 			"name": "Botswana",
 			"capital": "Gaborone",
 			"region": "AF",
+			"isCountry": "true",
 			"currency": {
 				"name": "Pula",
 				"code": "BWP",

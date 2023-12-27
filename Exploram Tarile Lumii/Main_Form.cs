@@ -72,6 +72,7 @@ namespace Exploram_Tarile_Lumii
                         name = countryDetails["name"].ToString(),
                         capital = countryDetails["capital"].ToString(),
                         region = countryDetails["region"].ToString(),
+                        isCountry = countryDetails["isCountry"].ToString().Equals("true"),
                         currency = new Country.Currency
                         {
                             name = currencyDict["name"].ToString(),
@@ -98,11 +99,12 @@ namespace Exploram_Tarile_Lumii
 
             foreach (var item in countryList!)
             {
-                Debug.WriteLine($"[{item.id}] {item.name} - {item.capital} - {item.region}");
+                Debug.WriteLine($"[{item.id}] {item.name} - {item.capital} - {item.region} - {(item.isCountry == true ? "YES" : "NO")}");
                 Debug.WriteLine($"Currency: {item.currency.name} - {item.currency.code} - {item.currency.symbol}");
                 Debug.WriteLine($"{item.language} - {item.area} - {item.density}");
                 Debug.WriteLine(item.description);
                 Scene_MainMenu.pictureBox4.BackgroundImage = item.flag;
+                Debug.WriteLine("=====================================================================================================");
                 await Task.Delay(100);
             }
         }
